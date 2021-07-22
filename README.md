@@ -1,5 +1,5 @@
 [资源原地址](https://github.com/ArchLinuxStudio/ArchLinuxTutorial.git)
-
+[文档地址](https://archlinuxstudio.github.io/ArchLinuxTutorial/#/rookie/archlinux_pre_install)
 <p align="center">
 <img width="240" height="80" align="left" style="float: left; margin: 0 10px 0 0;" src="https://www.archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" alt="ArchLinuxStudio_ArchLinuxTutorial"/>
 </br>
